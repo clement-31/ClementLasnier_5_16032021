@@ -87,4 +87,3 @@ function basketPreview() {
 function clearBasket() {
     localStorage.clear();
 }
-
